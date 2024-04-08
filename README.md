@@ -1,6 +1,4 @@
-Certainly! Below is a basic README file template that you can use to describe how to use SpeechRecognition in your project:
 
----
 
 # Speech Recognition
 
